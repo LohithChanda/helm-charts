@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  bnadmin:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-10-15T14:07:43.064236-07:00
+    description: A Helm chart for Kubernetes
+    digest: cac7e1d7ce816be7bfe97594ddfd3a042536d39e23d1b874a5950868fd4dde51
+    name: bnadmin
+    urls:
+    - https://lohithchanda.github.io/helm-charts/bnadmin-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-10-15T14:07:43.061291-07:00
