@@ -3,7 +3,7 @@ entries:
   bnadmin:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-23T08:56:38.98581-07:00
+    created: 2018-10-30T09:27:29.243441-07:00
     description: A Helm chart for Kubernetes
     digest: cac7e1d7ce816be7bfe97594ddfd3a042536d39e23d1b874a5950868fd4dde51
     name: bnadmin
@@ -12,11 +12,21 @@ entries:
     version: 0.1.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-23T08:56:38.986867-07:00
+    created: 2018-10-30T09:27:29.244061-07:00
     description: A Helm chart for Kubernetes
     digest: f64c4895b62563be8453aaba18f69f5d3fecc2f7f68b687c5e991775784c2af3
     name: bnadmin
     urls:
     - bnadmin-0.2.0.tgz
     version: 0.1.0
-generated: 2018-10-23T08:56:38.984107-07:00
+  playground:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-10-30T09:27:29.244607-07:00
+    description: A Helm chart for Kubernetes
+    digest: eaca6530ff52ebae7cee55fbbea740557c2ab581b7a5ee5140f37ad736bbb222
+    name: playground
+    urls:
+    - playground-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-10-30T09:27:29.240649-07:00
